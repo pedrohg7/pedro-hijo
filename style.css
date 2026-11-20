@@ -1,0 +1,29 @@
+/*
+Theme Name: pedro-hijo
+Template: twentytwentyfive
+Description: Tema hijo de Twenty Twenty-Five para el blog SneakersHub
+Author: Pedro Manuel Herrera García
+Version: 1.0.0
+*/
+
+/* Estilos personalizados de SneakersHub */
+
+/* Caja de contacto al final de las entradas */
+
+.caja-contacto {
+    background-color: #F1F5F9;
+    border-left: 4px solid #2563EB;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+.caja-contacto p {
+    color: #1E293B;
+    margin: 0;
+}
+
+.caja-contacto a {
+    color: #2563EB;
+    font-weight: bold;
+}

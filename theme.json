@@ -1,0 +1,46 @@
+{
+  "$schema": "https://schemas.wp.org/wp/6.9/theme.json",
+  "version": 3,
+  "settings": {
+    "color": {
+      "palette": [
+        {
+          "slug": "azul-sneakers",
+          "name": "Azul Sneakers",
+          "color": "#2563EB"
+        },
+        {
+          "slug": "negro-carbon",
+          "name": "Negro Carbón",
+          "color": "#0F172A"
+        },
+        {
+          "slug": "gris-claro",
+          "name": "Gris Claro",
+          "color": "#F1F5F9"
+        }
+      ]
+    }
+  },
+  "styles": {
+    "color": {
+      "background": "#F1F5F9",
+      "text": "#1E293B"
+    },
+    "elements": {
+      "link": {
+        "color": {
+          "text": "#2563EB"
+        }
+      },
+      "heading": {
+        "color": {
+          "text": "#0F172A"
+        },
+        "typography": {
+          "fontFamily": "Georgia, 'Times New Roman', serif"
+        }
+      }
+    }
+  }
+}
